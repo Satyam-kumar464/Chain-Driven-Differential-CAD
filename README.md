@@ -1,2 +1,20 @@
-# Chain-Driven-Differential-CAD
-SolidWorks CAD model of a chain-driven differential assembly featuring a sprocket-driven carrier, axle shafts, and bolted housing for vehicle drivetrain applications.
+# Chain Driven Differential Assembly
+
+## Overview
+This project presents a SolidWorks CAD model of a chain-driven differential assembly designed for vehicle drivetrain applications. The design includes a sprocket-driven differential carrier, axle shafts, and a bolted housing assembly for transmitting power from the chain drive to the wheels.
+
+## Software
+- SolidWorks
+
+## Key Components
+- Differential housing
+- Drive sprocket
+- Axle shafts
+- Fasteners
+- Mounting interfaces
+
+## Applications
+- Formula Student vehicles
+- Go-karts
+- ATV drivetrains
+- Educational drivetrain studies
