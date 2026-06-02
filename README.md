@@ -1,3 +1,7 @@
+
+
+
+
 # Chain Driven Differential Assembly
 
 
@@ -8,6 +12,8 @@ This project presents a SolidWorks CAD model of a chain-driven differential asse
 
 
 <img width="566" height="531" alt="Screenshot 2026-06-02 151621" src="https://github.com/user-attachments/assets/de7afc67-b20b-4675-99d0-95af473c2dcc" />
+
+https://github.com/user-attachments/assets/fb1c7c6a-c7f3-4a5e-b07d-a9ad561f742d
 
 
 ## Software
